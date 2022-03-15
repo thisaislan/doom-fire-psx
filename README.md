@@ -7,4 +7,4 @@ This is based on Fabien Sanglad (@fabiensanglard) work, links below.<br/>
 
 :link: Source: http://fabiensanglard.net/doom_fire_psx/index.html<br/>
 :link: Source code: https://github.com/fabiensanglard/DoomFirePSX<br/>
-:email: Email: this.aislansgame@outlook.com
+:email: Email: this.aislan@gmail.com
